@@ -11,4 +11,4 @@ git push -u origin master
 git push [use after first push]
 git commit -a -m "new line" [combined phrase to add & insert message]
 
-###Link to Markdown Cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+#####Link to Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
